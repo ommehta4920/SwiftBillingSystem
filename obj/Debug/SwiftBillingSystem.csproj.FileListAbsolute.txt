@@ -1,0 +1,16 @@
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\bin\Debug\SwiftBillingSystem.exe.config
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\bin\Debug\SwiftBillingSystem.exe
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\bin\Debug\SwiftBillingSystem.pdb
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.csproj.AssemblyReference.cache
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.Properties.Resources.resources
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.frmUserDashboard.resources
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.csproj.GenerateResource.cache
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.exe
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.pdb
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.UI.frmBuyers.resources
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.UI.frmAdminDashboard.resources
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.UI.frmUsers.resources
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.UI.frmLogin.resources
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.UI.frmProducts.resources
+C:\Users\Om Mehta\Desktop\SwiftBillingSystem\SwiftBillingSystem\obj\Debug\SwiftBillingSystem.UI.frmSellers.resources
